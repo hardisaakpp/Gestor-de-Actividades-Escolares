@@ -1,0 +1,12 @@
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\bin\Debug\net8.0\Planificador.Shared.deps.json
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\bin\Debug\net8.0\Planificador.Shared.dll
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\bin\Debug\net8.0\Planificador.Shared.pdb
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.AssemblyInfoInputs.cache
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.AssemblyInfo.cs
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.sourcelink.json
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.dll
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\refint\Planificador.Shared.dll
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\Planificador.Shared.pdb
+C:\Users\ciortiz\OneDrive - Instituto Tecnologico Internacional\Planificador-de-actividades\Proyecto ITI\Planificador.Shared\obj\Debug\net8.0\ref\Planificador.Shared.dll

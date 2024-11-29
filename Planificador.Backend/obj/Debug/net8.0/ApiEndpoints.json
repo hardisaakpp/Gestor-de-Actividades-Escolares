@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "Planificador.Backend.Controllers.ActividadesController",
+    "Method": "addActivity",
+    "RelativePath": "api/Actividades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actividad",
+        "Type": "Planificador.Shared.Entities.Actividad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planificador.Backend.Controllers.ActividadesController",
+    "Method": "updateActivity",
+    "RelativePath": "api/Actividades",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "actividad",
+        "Type": "Planificador.Shared.Entities.Actividad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planificador.Backend.Controllers.ActividadesController",
+    "Method": "deleteActivity",
+    "RelativePath": "api/Actividades",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planificador.Backend.Controllers.ActividadesController",
+    "Method": "getActivities",
+    "RelativePath": "api/Actividades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
