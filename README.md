@@ -1,17 +1,15 @@
-# Planificador de Actividades con Cortes de Luz
+# Gestor de Actividades Escolares
 
 ## Descripción
 
-Este proyecto es un **Planificador de Actividades con Cortes de Luz**, diseñado para ayudar a las personas a organizar sus tareas semanales teniendo en cuenta los horarios de apagones programados. El sistema prioriza tareas que requieren electricidad, genera un plan semanal automatizado y permite ajustarlo manualmente.
+Este proyecto es un **Gestor de Actividades Escolares**, diseñado para ayudar a los estudiantes y profesores a organizar sus tareas y actividades escolares. El sistema permite registrar actividades, generar un plan semanal automatizado y ajustarlo manualmente.
 
 ## Funcionalidades Principales
 
-- **Horarios de Corte**:
-  - Registrar horarios de cortes de luz programados.
 - **Gestión de Actividades**:
-  - Registrar actividades, clasificándolas según si requieren electricidad y su duración.
+  - Registrar actividades escolares, clasificándolas según su prioridad y duración.
 - **Planificador Semanal**:
-  - Generar un plan semanal automático con las actividades organizadas en horarios con luz disponible.
+  - Generar un plan semanal automático con las actividades organizadas.
   - Ajustar el plan manualmente si es necesario.
 - **Recordatorios**:
   - Enviar notificaciones o correos recordando actividades próximas.
@@ -36,5 +34,6 @@ Este proyecto es un **Planificador de Actividades con Cortes de Luz**, diseñado
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/planificador-actividades.git
-cd planificador-actividades
+git clone https://github.com/tu-usuario/gestor-actividades-escolares.git
+cd gestor-actividades-escolares
+```
