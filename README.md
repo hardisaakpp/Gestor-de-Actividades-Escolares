@@ -21,7 +21,7 @@ Este proyecto es un **Gestor de Actividades Escolares**, diseñado para ayudar a
 - **Backend**: ASP.NET Core
 - **Frontend**: Razor Pages
 - **Base de Datos**: SQL Server
-- **ORM**: Entity Framework Core
+- **ORM**: Dapper
 
 ## Requisitos Previos
 
